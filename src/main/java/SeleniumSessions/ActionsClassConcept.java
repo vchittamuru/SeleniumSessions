@@ -14,7 +14,7 @@ public class ActionsClassConcept {
 	//static WebElement element;
 	public static void main(String[] args) {
 
-		
+		//Chrome driver setup
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		
